@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\bin\Debug\Par ou Impar.exe.config
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\bin\Debug\Par ou Impar.exe
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\bin\Debug\Par ou Impar.pdb
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\obj\Debug\Par_ou_Impar.Form1.resources
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\obj\Debug\Par_ou_Impar.Properties.Resources.resources
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.exe
+C:\Users\P114\source\repos\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.pdb
